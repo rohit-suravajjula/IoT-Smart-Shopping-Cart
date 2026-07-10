@@ -68,6 +68,32 @@ For a detailed explanation, see:
 
 ---
 
+# 📷 Project Images
+
+### Hardware Setup
+
+The prototype was built using a NodeMCU (ESP8266), EM-18 RFID reader, 16×2 LCD display, and supporting components on a breadboard.
+
+![Hardware Setup](docs/images/hardware_setup.jpeg)
+
+---
+
+### Circuit Diagram
+
+The circuit diagram shows the hardware connections between the NodeMCU, RFID reader, LCD module, buzzer, push button, and other peripherals used in the project.
+
+![Circuit Diagram](docs/images/circuit_diagram.png)
+
+---
+
+### Project Output
+
+The output demonstrates the system displaying product information and updating the bill after an RFID-tagged item is scanned.
+
+![Project Output](docs/images/output.png)
+
+---
+
 # 📂 Repository Structure
 
 

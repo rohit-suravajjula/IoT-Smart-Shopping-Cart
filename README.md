@@ -1,6 +1,7 @@
 # 🛒 IoT Smart Shopping Cart with Automatic Billing
 
 **Year:** 2024 ; 
+
 **Project Type:** Academic IoT Project
 
 An IoT-based embedded system developed using **NodeMCU (ESP8266)** and **RFID technology** to simplify the shopping and billing process. The system automatically detects RFID-tagged products, updates the running bill, displays item details on an LCD, and hosts a simple web interface over a local Wi-Fi network.
